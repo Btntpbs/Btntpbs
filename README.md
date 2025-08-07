@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 
-### 🧠 Neuropark 3D Vehicle Analyzer (Current)
+### 🧠 Neuropark 3D Vehicle Analyzer 
 - Uses YOLO + point cloud segmentation for vehicle localization and dimensioning
 - Batch-processing supported for hundreds of .glb-based scenes
 - Calibration-aware 3D object classification for cars, trucks, LCVs, etc.
