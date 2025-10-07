@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Batın Topbaşoğlu
 
-🎓 3rd-year Electronic and Computer Engineering student at Wrocław University of Science and Technology  
-💻 Passionate about object detection, embedded systems, robotics, image processing, and software development  
-🌍 Currently exploring real-time 3D vehicle dimensioning and AI-based detection pipelines  
+🎓 4th-year Electronic and Computer Engineering student at Wrocław University of Science and Technology  
+💻 Passionate about object detection, embedded systems, Ai, image processing, and software development  
+🌍 Currently I am working on Ai models and Machine Learning methods
 📫 Reach me: btntpbs@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/bat%C4%B1n-topba%C5%9Fo%C4%9Flu-95283a235/)
 
