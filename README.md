@@ -14,6 +14,16 @@
 - Uses YOLO + point cloud segmentation for vehicle localization and dimensioning
 - Batch-processing supported for hundreds of .glb-based scenes
 - Calibration-aware 3D object classification for cars, trucks, LCVs, etc.
+  
+### 💬 Python Chat Application
+
+Built a real-time chat system enabling multiple users to communicate over the same IP address
+
+Implemented socket programming for client–server interaction and multi-threading for concurrent connections
+
+Focused on reliable data transmission, connection handling, and network efficiency within local networks
+
+Designed for educational demonstration of basic network communication protocols
 
 ### 🔦 Optical Analog Transmission System
 - Analog audio transmission using LED + photodiode setup
@@ -43,6 +53,7 @@
 - **Languages**: C/C++, Python, VHDL, Verilog, Bash
 - **Hardware**: STM32, Arduino, Rasberry Pi, PCBs
 - **Software**: Altium Designer, MATLAB, KiCad, Linux, OpenCV, YOLO
+- Networking & Automation: Socket Programming, Linux/Ubuntu, Git, Robot Framework, 2G–5G Fundamentals
 - **Concepts**: Microcontrollers, Signal Processing, Real-Time Systems, Object Detection
 
 ---
